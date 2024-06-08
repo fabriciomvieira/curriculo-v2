@@ -1,7 +1,7 @@
 
 # Currículo - Fabricio Vieira
 
-Este repositório contém o código-fonte do currículo online de Fabricio Vieira, desenvolvido em HTML, CSS e JavaScript com hospedagem na plataforma Netlify. O currículo inclui informações sobre experiência profissional, formação acadêmica, competências e links para redes sociais.
+Este repositório contém o código-fonte do currículo online de Fabricio Vieira, desenvolvido em HTML, CSS e com hospedagem na plataforma Netlify. O currículo inclui informações sobre experiência profissional, formação acadêmica, competências e links para redes sociais.
 
 ## Estrutura do Projeto
 
