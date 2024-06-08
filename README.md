@@ -16,6 +16,8 @@ Este repositório contém o código-fonte do currículo online de Fabricio Vieir
 
 Para visualizar o currículo, abra o arquivo `index.html` em um navegador web.
 
+URL para acesso via web: https://fabriciomvieira.netlify.app/
+
 ## Seções do Currículo
 
 1. **Sobre mim**: Descrição da atuação profissional e certificações.
